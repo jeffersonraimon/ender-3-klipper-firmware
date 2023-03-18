@@ -1,5 +1,6 @@
-# ender-3-klipper-firmware
-my firmware klipper with mainsailOS
+# Ender 3 Klipper Firmware
+
+My firmware klipper with mainsailOS
 
 Setup
 
