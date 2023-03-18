@@ -12,9 +12,12 @@ Pi: Orange Pi 3 LTS
 Klipper + Moonraker + MainsailOS
 
 Thanks to:
-https://3dpandme.com/2022/08/13/tutorial-orange-pi-zero-plus-klipper-install/
-https://github.com/th33xitus/kiauh
-https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/firmware/V3.0/Klipper
+
+[Tutorial](https://3dpandme.com/2022/08/13/tutorial-orange-pi-zero-plus-klipper-install/)
+
+[KIAUH](https://github.com/th33xitus/kiauh)
+
+[BIGTREETECH](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/firmware/V3.0/Klipper)
 
 
 
