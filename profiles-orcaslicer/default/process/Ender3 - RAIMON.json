@@ -1,0 +1,23 @@
+{
+    "brim_type": "outer_only",
+    "brim_width": "6",
+    "from": "User",
+    "gap_infill_speed": "60",
+    "inherits": "0.20mm Standard @Creality Ender3",
+    "initial_layer_infill_speed": "20",
+    "initial_layer_line_width": "0.4",
+    "initial_layer_speed": "20",
+    "inner_wall_line_width": "0.4",
+    "inner_wall_speed": "60",
+    "internal_solid_infill_speed": "120",
+    "is_custom_defined": "0",
+    "line_width": "0.4",
+    "name": "Ender3 - RAIMON",
+    "outer_wall_line_width": "0.4",
+    "print_settings_id": "Ender3 - RAIMON",
+    "skirt_loops": "3",
+    "sparse_infill_line_width": "0.4",
+    "sparse_infill_speed": "120",
+    "top_surface_speed": "60",
+    "version": "2.3.0.3"
+}
